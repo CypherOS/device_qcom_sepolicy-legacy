@@ -1,0 +1,7 @@
+Code-Review+2: Chris Crump <chris@cypheros.co>
+Verified+1: Chris Crump <chris@cypheros.co>
+Submitted-by: Chris Crump <chris@cypheros.co>
+Submitted-at: Mon, 29 Oct 2018 05:23:17 -0700
+Reviewed-on: https://gerrit.cypheros.co/7479
+Project: CypherOS/device_qcom_sepolicy-legacy
+Branch: refs/heads/poundcake-release
